@@ -59,9 +59,9 @@ Cette page fournit une **vue globale du churn** à travers :
 
 📷 *Capture d’écran – Page Résumé Power BI*
 
-```
+
 ![Page Résumé](https://github.com/raskel00/powerbi-end-to-end-churn-analysis/blob/main/rs.png))
-```
+
 
 ---
 
@@ -75,9 +75,8 @@ Cette page met en avant les **résultats du modèle de Machine Learning** :
 
 📷 *Capture d’écran – Page Prédiction du Churn*
 
-```
 ![Page Prédiction](https://github.com/raskel00/powerbi-end-to-end-churn-analysis/blob/main/pdc.png)
-```
+
 
 ---
 
